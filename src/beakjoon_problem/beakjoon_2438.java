@@ -13,5 +13,7 @@ public class beakjoon_2438 {
 			}
 			System.out.println();
 		}
+
+		scanner.close();
 	}
 }
