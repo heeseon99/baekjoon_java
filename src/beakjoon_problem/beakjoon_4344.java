@@ -1,7 +1,6 @@
 package beakjoon_problem;
 
 import java.util.Scanner;
-import java.math.*;
 
 public class beakjoon_4344 {
 	public static void main(String[] args) {
