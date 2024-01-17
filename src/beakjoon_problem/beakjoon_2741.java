@@ -7,6 +7,8 @@ public class beakjoon_2741 {
 		int num = scanner.nextInt();
 		
 		for(int i = 1; i<=num; i++)
-			System.out.println(i);		
+			System.out.println(i);
+			
+		scanner.close();
 	}
 }
